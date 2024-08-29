@@ -8,6 +8,8 @@ Happy crypto validator :)
 
 | Blockchain        | Nihil S Node |
 |----------------|---------------------|
+| Elixir (GitHub) | [Link](https://github.com/NihilSupernum/Elixir-node) |
+| Airchain (GitHub) | [Link](https://github.com/NihilSupernum/Airchain) |
 | 0G | [Link](https://testnet.0g.explorers.guru/validator/0gvaloper1alq9prmm9ea8pk46r2cj79rdk93qfakmmynw62) |
 | 0G (GitHub) | [Link](https://github.com/NihilSupernum/0glabsguide/tree/main) |
 | Entangle       | [Link](https://test.explorer.ist/entangle/staking/ethmvaloper1qrcwvny0nm83enz4q0rxtgd7mt0uxn74kfj98q) |
